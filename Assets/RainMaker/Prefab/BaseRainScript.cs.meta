@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5fadb2792073be54387ad764e856d440
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Camera: {instanceID: 0}
+  - RainSoundLight: {fileID: 8300000, guid: c980eda1ec9b9ff4b930005976b00f41, type: 3}
+  - RainSoundMedium: {instanceID: 0}
+  - RainSoundHeavy: {instanceID: 0}
+  - RainSoundAudioMixer: {instanceID: 0}
+  - RainFallParticleSystem: {instanceID: 0}
+  - RainExplosionParticleSystem: {instanceID: 0}
+  - RainMistParticleSystem: {instanceID: 0}
+  - WindSound: {instanceID: 0}
+  - WindZone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
